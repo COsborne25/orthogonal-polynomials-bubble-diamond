@@ -4,7 +4,7 @@ Elena P. Axinn, Gamal Mograby, Calvin Osborne, Kasso A. Okoudjou, Olivia Rigatti
 
 Created by Calvin Osborne
 
-The code provided here generated the figures from this paper. We follow the computations laid out in the paper to compute the harmonic basis, monomial basis, and Legendre polynomials on a graph approximation of the bubble-diamond fractal with a given branching parameter and number of layers.
+The code provided here generated the figures from the associated paper. We follow the computations laid out in the paper to compute the harmonic basis, monomial basis, and Legendre polynomials on a graph approximation of the bubble-diamond fractal with a given branching parameter and number of approximation layers.
 
 ### Plotting
 
