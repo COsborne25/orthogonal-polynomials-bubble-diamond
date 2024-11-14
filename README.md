@@ -10,7 +10,7 @@ The code provided here generated the figures from this paper. We follow the comp
 
 To plot a particular graph, see the last section of the code. In particular, the harmonic basis ``fb``, the monomial basis ``Pb``, and the Legendre polynomials ``ob`` can all be plotted.
 
-By default, the first four Legendre polynomials are plotted on a bubble-diamond graph with branching parameter $b = 2$ and $m = 5$ layers of approximation.
+By default, the first five Legendre polynomials are plotted on a bubble-diamond graph with branching parameter $b = 2$ and $m = 5$ layers of approximation.
 
 ### Config
 
