@@ -16,7 +16,7 @@ To make changes to the underlying bubble-diamond graph, use the ``config.ini`` f
 * ``b``: the branching parameter.
 * ``m``: the number of layers of the graph approximation.
 * ``j``: the number of Legendre polynomials to generate.
-* ``ell``: the height distance from the unit interval to the furthest branch of $V_1$.
+* ``ell``: the height from the unit interval to the furthest branch of $V_1$.
 * ``display_mode``: either ``2D``, which displays just the underlying bubble-diamond graph, or ``3D``, which displays the desired polynomial functions on the underlying bubble-diamond graph.
 
 ### Requirements
